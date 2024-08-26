@@ -1,0 +1,8 @@
+# Ignore specific files in the root folder
+normalized.java
+javaFiles.txt
+
+# Ignore directories in the root folder
+Project/
+measures/
+bin/
