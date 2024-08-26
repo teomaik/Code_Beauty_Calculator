@@ -1,6 +1,7 @@
 package CAMs;
-import java.util.*;
-import java.io.*;
+
+import java.io.File;
+import java.util.Scanner;
 
 public class DCM {
 	String filename;
